@@ -1,3 +1,11 @@
 *.txt
 .env
 .gitignore
+node_modules/
+dist/
+.DS_Store
+.vscode/
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
