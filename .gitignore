@@ -1,0 +1,11 @@
+*.txt
+*.log
+temp/
+.DS_Store
+node_modules/
+.vscode/
+dist/
+.env
+.idea/  
+*.bak
+*.swp
